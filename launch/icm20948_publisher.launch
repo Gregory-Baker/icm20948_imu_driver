@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="icm20948_imu_driver" name="icm_imu_node" type="icm20948_publisher.py" />
+
+</launch>
